@@ -5,4 +5,5 @@ print "Today is " . date("Y.m.d") . "<br>";
 print "Today is " . date("Y-m-d") . "<br>";
 print "Today is " . date("l");
 
+	<img src="/home/student/DO180-apps/php-helloworld/coffee.jpg" />
 ?>
